@@ -1,3 +1,3 @@
 # Hello world
 
-I am just a para
+I am just a paragraph
